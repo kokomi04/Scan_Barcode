@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scan_Barcode_Dual", "Scan_Barcode_Dual\Scan_Barcode_Dual.csproj", "{706183CB-2CF0-46CF-8EE6-1B080A67B7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scan_Barcode", "Scan_Barcode\Scan_Barcode.csproj", "{AC17EBCF-A390-46AE-9D0E-60E7A0CB1486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamsoft KeyStudio", "Dynamsoft KeyStudio\Dynamsoft KeyStudio.csproj", "{7C44A8E0-F497-4297-8608-1F7D21465A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706183CB-2CF0-46CF-8EE6-1B080A67B7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706183CB-2CF0-46CF-8EE6-1B080A67B7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706183CB-2CF0-46CF-8EE6-1B080A67B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706183CB-2CF0-46CF-8EE6-1B080A67B7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC17EBCF-A390-46AE-9D0E-60E7A0CB1486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC17EBCF-A390-46AE-9D0E-60E7A0CB1486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC17EBCF-A390-46AE-9D0E-60E7A0CB1486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC17EBCF-A390-46AE-9D0E-60E7A0CB1486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C44A8E0-F497-4297-8608-1F7D21465A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C44A8E0-F497-4297-8608-1F7D21465A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C44A8E0-F497-4297-8608-1F7D21465A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C44A8E0-F497-4297-8608-1F7D21465A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
